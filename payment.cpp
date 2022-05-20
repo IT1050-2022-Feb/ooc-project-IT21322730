@@ -1,4 +1,4 @@
-// IT21289620 - Dissanayaka Mudiyanselage R.O.D.M
+// IT21289620 - Dissanayaka Mudiyanselage D.M.R.O 
 //Class implementation of Payment
 Payment::Payment()
 {
