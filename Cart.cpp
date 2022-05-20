@@ -1,4 +1,5 @@
-//IT21193118 -
+//IT21193118 Hettiarachchi H. A. A. I.
+//class of Cart
 Cart::Cart()
 {
 	customerId = “ ” ;
