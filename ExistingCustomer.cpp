@@ -1,4 +1,5 @@
-//IT21223426 - 
+//IT21223426 - Chamodi W.A.K.D
+//class implimentation of ExistingCustomer
 ExistingCustomer::ExistingCustomer();
 {
 	Name = “ ” ;

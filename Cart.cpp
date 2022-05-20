@@ -1,5 +1,5 @@
 //IT21193118 Hettiarachchi H. A. A. I.
-//class of Cart
+//class implementation of  of Cart
 Cart::Cart()
 {
 	customerId = “ ” ;
