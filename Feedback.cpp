@@ -1,3 +1,5 @@
+//IT21193118 Hettiarachchi H. A. A. I.
+//class implementation of Feedback 
 Feedback::Feedback()
 {
 	customerId = “ ” ;

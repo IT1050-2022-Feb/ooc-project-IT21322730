@@ -1,3 +1,5 @@
+//IT21193118 Hettiarachchi H. A. A. I.
+//Class of Feedback
 class Feedback
 {
 	private:
